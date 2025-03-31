@@ -175,3 +175,20 @@ cython_debug/
 
 # MacOS
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Converted files (since they can be regenerated)
+_converted/
+
+# Keep _original empty directory but ignore its contents
+_original/*
+!_original/.gitkeep
