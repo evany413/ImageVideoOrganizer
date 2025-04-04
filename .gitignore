@@ -187,7 +187,8 @@ venv/
 ENV/
 
 # Converted files (since they can be regenerated)
-_converted/
+_converted/*
+_converted/.gitkeep
 
 # Keep _original empty directory but ignore its contents
 _original/*
